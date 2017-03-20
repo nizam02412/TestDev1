@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InterfaceMetaData>
+<System Name="3E">
+		<Channel>
+			<Type/>
+			<!--<Url>sftp://150.172.59.15:9026/</Url>-->
+<!--<Url>PROD/</Url>-->
+<Url>To_3e/</Url>
+		</Channel>
+	</System>
+</InterfaceMetaData>
