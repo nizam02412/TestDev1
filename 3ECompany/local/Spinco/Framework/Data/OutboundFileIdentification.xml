@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OutboundFileIdentification xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+     <System FolderName="/To_3E/">
+		<Message>
+<Sender>SAPECC</Sender>
+<Receiver>3E</Receiver>
+			<Type>File</Type>
+			<FileName>safetydatasheet.txt</FileName>
+			<InterfaceName>SendSafetyDataSheetDetails</InterfaceName>
+			<InterfaceNumber/>
+			<DateFormat/>
+			<DateIndicator/>
+			<Extension/>
+		</Message>
+	</System>
+	
+</OutboundFileIdentification>

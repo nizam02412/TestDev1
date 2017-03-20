@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailIdentification xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<!--Lookup XML For Sending Email for Error Monitoring-->
+	<EmailDetails>
+		<Header>
+            <Server>smtprelay.p3chem.net</Server>
+			<Sender>XG_MiddlewareSupport@domino.p3chem.net</Sender>
+			<Receiver>Chemours.Datapower.Team@accenture.com</Receiver>
+			<!--<Subject>PROD_Ashburn:DataPower%20Error%20Alert</Subject>-->
+			<Subject>PROD_Amsterdam:DataPower%20Error%20Alert</Subject>
+		</Header>
+	</EmailDetails>
+ </EmailIdentification>

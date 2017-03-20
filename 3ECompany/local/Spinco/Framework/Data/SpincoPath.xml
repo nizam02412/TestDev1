@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SpincoPath>
+	<Key>
+		<Name>Interface</Name>
+		<ValuePath>local:///Spinco/Interface/</ValuePath>
+	</Key>
+	<Key>
+		<Name>Framework</Name>
+		<ValuePath>local:///Spinco/Framework/</ValuePath>
+	</Key>
+	<Key>
+		<Name>Schema</Name>
+		<ValuePath>/Schema/</ValuePath>
+	</Key>
+	<Key>
+		<Name>Data</Name>
+		<ValuePath>/Data/</ValuePath>
+	</Key>
+	<Key>
+		<Name>FrameworkData</Name>
+		<ValuePath>local:///Spinco/Framework/Data/</ValuePath>
+	</Key>
+	<Key>
+		<Name>InterfaceData</Name>
+		<ValuePath>local:///Spinco/Interface/Data/</ValuePath>
+	</Key>
+	<Key>
+		<Name>Stylesheet</Name>
+		<ValuePath>/Stylesheet/</ValuePath>
+	</Key>
+	<Key>
+		<Name>Map</Name>
+		<ValuePath>/Map/</ValuePath>
+	</Key>
+<Key>
+		<Name>FrameworkMap</Name>
+		<ValuePath>local:///Spinco/Framework/Map/</ValuePath>
+	</Key>
+
+</SpincoPath>
