@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <InterfaceMetaData>
-<System Name="3EDEV1">
+	<System Name="3EDEV1 Person1">
 		<Channel>
 			<Type/>
 			<!--<Url>sftp://150.172.59.15:9026/</Url>-->
-<!--<Url>PROD/</Url>-->
-<Url>To_3e/</Url>
+			<!--<Url>PROD/</Url>-->
+			<Url>To_3e/</Url>
+			<Url>THis is a Merege Test for Feature1</Url>
 		</Channel>
 	</System>
 </InterfaceMetaData>
