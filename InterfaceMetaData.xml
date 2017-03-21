@@ -6,7 +6,7 @@
 			<!--<Url>sftp://150.172.59.15:9026/</Url>-->
 			<!--<Url>PROD/</Url>-->
 			<Url>To_3e/</Url>
-			<Url>THis is a Merege Test for Feature1</Url>
+			<Url>THis is a Merege Test for Feature1 test this </Url>
 		</Channel>
 	</System>
 </InterfaceMetaData>
